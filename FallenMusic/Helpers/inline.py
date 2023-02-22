@@ -76,7 +76,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="مبرمج السورس", url="https://t.me/WWWL5"
+            text="المبرمج مكس", url="https://t.me/WWWL5"
         ),
         InlineKeyboardButton(text="مالك البوت", user_id=config.OWNER_ID),
     ],
